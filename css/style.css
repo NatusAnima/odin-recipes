@@ -1,0 +1,40 @@
+*{
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+.dots {
+    color: red;
+}
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 52px;
+}
+.links {
+    color: lightcoral;
+    text-align: center;
+    font-size: 32px;
+}
+.dish {
+    color: chocolate;
+    font-size: 35px;
+    text-align: center;
+}
+.important {
+    background-color: green;
+    font-size: 30px;
+}
+ul {
+    background-color: pink;
+    font-size: 24px;
+}
+ol {
+    background-color: pink;
+    font-size: 24px;
+}
+img {
+    height: auto;
+    width: 900px;
+}
+#back{
+    font-size: 40px;
+}
